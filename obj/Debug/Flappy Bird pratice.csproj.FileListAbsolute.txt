@@ -1,0 +1,10 @@
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\bin\Debug\Flappy Bird pratice.exe.config
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\bin\Debug\Flappy Bird pratice.exe
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\bin\Debug\Flappy Bird pratice.pdb
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy Bird pratice.csproj.AssemblyReference.cache
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy_Bird_pratice.Properties.Resources.resources
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy Bird pratice.csproj.GenerateResource.cache
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy Bird pratice.csproj.CoreCompileInputs.cache
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy Bird pratice.exe
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy Bird pratice.pdb
+C:\Users\E5570\Desktop\Shepstone C#\Flappy Bird pratice\obj\Debug\Flappy_Bird_pratice.birdGame.resources
